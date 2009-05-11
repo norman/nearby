@@ -1,0 +1,56 @@
+= Nearby
+
+A mashup of TokyoCabinet and {GeoNames.org}[http://www.geonames.org] for quick
+and easy Geocoding and proximity searches.
+
+It runs fairly fast with the {GeoNames cities1000
+database}[http://download.geonames.org/export/dump/], and perhaps with larger
+datasets too. It works with Ruby 1.8 and 1.9. Ruby 1.9 is significantly
+faster.
+
+== Examples
+
+=== Create a database
+
+First, download a database from the {Geonames.org download
+server}[http://download.geonames.org/export/dump/]. Then:
+
+  Nearby::Database::create("my_db.tct", "cities1000.txt")
+
+=== Simple Geocode
+
+  db = Nearby::Database.new("my_db.tct")
+  db.get_place(:name => "Seattle", :region => "WA", :country => "US")
+
+=== Get nearby places
+
+  db = Nearby::Database.new("my_db.tct")
+  result = db.get_place(:name => "Seattle", :region => "WA", :country => "US").first
+  # Find all places within 100km of Seattle
+  db.get_nearby(result, 100)
+  
+=== Full example
+  require 'rubygems'
+  require 'nearby'
+
+  # Use the database from http://download.geonames.org/export/dump/AR.zip
+  Nearby::Database::create("argentina.tct", "AR.txt")
+  db = Nearby::Database.new("argentina.tct")
+  buenos_aires = db.get_place(:name => "Buenos Aires").first
+  db.get_nearby(buenos_aires, 10).each do |r|
+    puts r["asciiname"]
+  end
+
+=== TODO
+
+* Perform arbitrary queries
+* Allow distances in miles
+* Better approximate matching for place names.
+* Improve performance.
+* Make the code somewhat presentable - the first checkin is about 3 hours worth of code. :-)
+
+== Credits
+
+Created by {Norman Clarke}[mailto:norman@rubysouth.com]
+
+Copyright © 2008 Norman Clarke released under the MIT license.

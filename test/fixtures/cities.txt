@@ -1,0 +1,10 @@
+3039163	Sant Julià de Lòria	Sant Julia de Loria	San Julia,San Julià,San-Dzhulija-de-Lorija,San-Khulija-de-Lorija,Sant Julia de Loria,Sant Julià de Lòria,Сан-Джулия-де-Лория,Сан-Хулия-де-Лория,サン・ジュリア・デ・ロリア教区,圣胡利娅-德洛里亚,圣胡利娅－德洛里亚	42.4637237004292	1.49128675460815	P	PPLA	AD		06				8022		1045	Europe/Andorra	2008-10-15
+3039604	Pas de la Casa	Pas de la Casa	Pas de la Kasa,Пас де ла Каса	42.5427733923449	1.73360824584961	P	PPL	AD		00				2363	2050	2230	Europe/Andorra	2008-06-09
+3039678	Ordino	Ordino	Ordino,Ордино,オルディノ教区,奥尔迪诺	42.556225766578	1.53319358825684	P	PPLA	AD		05				0		1340	Europe/Andorra	2008-10-15
+3040051	les Escaldes	les Escaldes	Ehskal'des-Ehndzhordani,Escaldes,Escaldes-Engordany,Les Escaldes,Эскальдес-Энджордани,エスカルデス＝エンゴルダニ教区,萊塞斯卡爾德-恩戈爾達,萊塞斯卡爾德－恩戈爾達	42.5072869554153	1.53413772583008	P	PPLA	AD		08				15853		1350	Europe/Andorra	2008-10-15
+3040132	la Massana	la Massana	La Macana,La Massana,La Maçana,La-Massana,la Massana,Ла-Массана,ラ・マサナ教区,马萨纳	42.5449866731324	1.51482582092285	P	PPLA	AD		04				7211		1257	Europe/Andorra	2008-10-15
+3040686	Encamp	Encamp	Ehnkam,Encamp,Энкам,エンカンプ教区,恩坎普	42.5333333	1.5833333	P	PPLA	AD		03				11223		1571	Europe/Andorra	2007-04-22
+3041204	Canillo	Canillo	Canillo,Kanil'o,Канильо,カニーリョ教区,卡尼略	42.5666667	1.6	P	PPLA	AD		02				3292		1655	Europe/Andorra	2007-02-17
+3041563	Andorra la Vella	Andorra la Vella	Ando-la-Vyey,Andora,Andora la Velja,Andora lja Vehl'ja,Andoro Malnova,Andorra,Andorra Tuan,Andorra a Vella,Andorra la Biella,Andorra la Vella,Andorra la Vielha,Andorra-a-Velha,Andorra-la-Vel'ja,Andorra-la-Vielye,Andorre-la-Vieille,Andò-la-Vyèy,Andòrra la Vièlha,Ανδόρρα,Андора ла Веля,Андора ла Веља,Андора ля Вэлья,Андорра-ла-Велья,אנדורה לה וולה,أندورا لا فيلا,አንዶራ ላ ቬላ,アンドラ・ラ・ヴェリャ,安道爾城,안도라라베야	42.5051514333831	1.51506185531616	P	PPLC	AD		07				20430		1011	Europe/Andorra	2009-04-13
+290594	Umm al Qaywayn	Umm al Qaywayn	Um al Quweim,Umm al Qaiwain,Umm al Qawain,Yumul al Quwain	25.5652778	55.5533333	P	PPLA	AE		07				44411		8	Asia/Dubai	2008-10-01
+291074	Ra's al Khaymah	Ra's al Khaymah	Julfa,Khaimah,Ras al Khaima,Ras al Khaimah,Rās al Khaima	25.7911111	55.9427778	P	PPLA	AE		05				115949		27	Asia/Dubai	2008-10-01

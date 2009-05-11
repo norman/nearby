@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.rdoc
+Rakefile
+lib/nearby.rb
+test/test_helper.rb
+test/test_nearby.rb
